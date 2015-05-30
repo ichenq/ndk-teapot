@@ -11,10 +11,10 @@ Issue decription.
  * SDK version:  22.0.1
 
 ### Build Step
- * cd Teapot
- * ndk-build NDK_DEBUG=0 NDK_PROJECT_PATH=./
- * android update project -t android-22 -p .
- * ant debug
+ * `cd Teapot`
+ * `ndk-build NDK_DEBUG=0 NDK_PROJECT_PATH=./`
+ * `android update project -t android-22 -p .`
+ * `ant debug`
 
 ### How it looks
 
